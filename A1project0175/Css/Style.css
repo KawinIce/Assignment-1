@@ -1,0 +1,16 @@
+header {
+        color:black;
+    
+}
+h3{
+    color:black;
+    background-color:aliceblue;
+    font-family:serif
+}
+h1{
+    color:Red;
+    font-weight: bold;
+    text-decoration: underline;
+    background-color:antiquewhite;
+    font-family:sans-serif
+}
